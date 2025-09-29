@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently pursuing a Ph.D. at Georgia Institute of Technology, where I am advised by Prof. [Callie Hao](https://sites.gatech.edu/ece-callie/). I am fortunate enough to work with an inspiring group of researchers at [SHARC LAB](https://sharclab.ece.gatech.edu/)! My research interests include computer architecture, High Level Synthesis (HLS), and reconfigurable technologies. I received my B.S. degree in Microelectronic Science and Engineering from Fudan University in 2025.
 
-You can find my CV here: [Shuyang Li's CV]()
+You can find my CV here: [Shuyang Li's CV](../files/CV_sept2025.pdf)
 
 You can contact me via my email: shuyang.li@gatech.edu
 
