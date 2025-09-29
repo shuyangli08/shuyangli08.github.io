@@ -1,7 +1,7 @@
 ---
 title: "PipeFuser: Building Flexible Pipeline Architecture for DNN Accelerators via Layer Fusion"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/2024-pipefuser
 date: 2024-01-25
 venue: '29th ASP-DAC 2024, Incheon, South Korea'
