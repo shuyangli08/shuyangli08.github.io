@@ -1,7 +1,7 @@
 ---
 title: "FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities"
 collection: publications
-category: Journal Articles
+category: manuscripts
 permalink: /publication/2024-sparse-matmul
 date: 2024-08-10
 venue: 'ACM Transactions on Reconfigurable Technology and Systems (TRETS)'
