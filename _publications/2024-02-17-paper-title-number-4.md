@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "PipeFuser: Building Flexible Pipeline Architecture for DNN Accelerators via Layer Fusion"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: conference
+permalink: /publication/2024-pipefuser
+date: 2024-01-25
+venue: '29th ASP-DAC 2024, Incheon, South Korea'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10473790'
+citation: 'X. Zhou, S. Li, H. Lu, K. Wang. "PipeFuser: Building Flexible Pipeline Architecture for DNN Accelerators via Layer Fusion." <i>ASP-DAC</i>, 2024.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**PipeFuser** introduces a layer fusion-based design framework that constructs flexible and high-throughput DNN pipelines on FPGAs, improving both resource utilization and latency.
