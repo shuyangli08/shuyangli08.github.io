@@ -1,7 +1,7 @@
 ---
 title: "TrackGNN: A Highly Parallelized and FIFO-Balanced GNN Accelerator for Track Reconstruction on FPGAs"
 collection: publications
-category: conference
+category: Conference Papers
 permalink: /publication/2025-05-01-trackgnn
 date: 2025-05-01
 venue: '33rd IEEE FCCM 2025'
