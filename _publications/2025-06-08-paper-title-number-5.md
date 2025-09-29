@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "DNNMapper: an Elastic Framework for Mapping DNNs to Multi-Die FPGAs"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: conference
+permalink: /publication/2024-dnnmapper
+date: 2024-05-22
+venue: 'IEEE ISCAS 2024, Singapore'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10558120'
+citation: 'S. Li, X. Zhou, H. Lu, K. Wang. "DNNMapper: an Elastic Framework for Mapping DNNs to Multi-Die FPGAs." <i>ISCAS</i>, 2024.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+**DNNMapper** is an elastic mapping framework that supports scalable deployment of deep neural networks onto multi-die FPGA platforms. The framework supports efficient partitioning and inter-die communication.
