@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: journal
+permalink: /publication/2025-dif-lut-pro
+date: 2025-04-15
+venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11023583'
+citation: 'Y. Liu, S. Li, R. Chen, Y. Li, J. Yu, K. Wang. "DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA." <i>IEEE TCAD</i>, 2025. DOI: 10.1109/TCAD.2025.3576333'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+**DIF-LUT Pro** enables simple and scalable approximation of nonlinear activation functions on FPGAs. This paper presents its automation flow and accuracy-resource tradeoffs validated on multiple benchmarks.
