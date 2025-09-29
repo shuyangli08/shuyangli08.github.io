@@ -5,32 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{https://scholar.google.com/citations?user=Z-QXbBoAAAAJ&hl}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="wordwrap">You can also find my articles on 
+  <a href="https://scholar.google.com/citations?user=Z-QXbBoAAAAJ&hl">my Google Scholar profile</a>.
+</div>
 
-{% include base_path %}
+## Publications
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+- **S. Li**, H. Zhang, R. Chen, C. Hao,  
+  *TrackGNN: A Highly Parallelized and FIFO-Balanced GNN Accelerator for Track Reconstruction on FPGAs*,  
+  **33rd IEEE FCCM 2025**. **Status: Published**
 
+- Y. Liu, **S. Li**, R. Chen, Y. Li, J. Yu, K. Wang,  
+  *DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA*,  
+  **IEEE TCAD**, **Status: Published**  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/11023583) • DOI: [10.1109/TCAD.2025.3576333](https://doi.org/10.1109/TCAD.2025.3576333)
 
+- Y. Liu, R. Chen, **S. Li**, J. Yang, S. Li, B. da Silva,  
+  *FPGA-Based Sparse Matrix Multiplication Accelerators*,  
+  **ACM TRETS**, 2024. **Status: Published**  
+  [Paper](https://dl.acm.org/doi/abs/10.1145/3687480)
 
+- X. Zhou, **S. Li**, H. Lu, K. Wang,  
+  *PipeFuser: Building Flexible Pipeline Architecture for DNN Accelerators via Layer Fusion*,  
+  **ASP-DAC 2024**, Incheon, South Korea. **Status: Published**  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/10473790)
+
+- **S. Li**, X. Zhou, H. Lu, K. Wang,  
+  *DNNMapper: an Elastic Framework for Mapping DNNs to Multi-Die FPGAs*,  
+  **ISCAS 2024**, Singapore. **Status: Published**  
+  [Paper](https://ieeexplore.ieee.org/abstract/document/10558120)
