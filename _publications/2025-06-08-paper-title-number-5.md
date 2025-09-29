@@ -1,7 +1,7 @@
 ---
 title: "DNNMapper: an Elastic Framework for Mapping DNNs to Multi-Die FPGAs"
 collection: publications
-category: conference
+category: Conference Papers
 permalink: /publication/2024-dnnmapper
 date: 2024-05-22
 venue: 'IEEE ISCAS 2024, Singapore'
