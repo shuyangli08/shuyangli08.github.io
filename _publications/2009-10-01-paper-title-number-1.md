@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "TrackGNN: A Highly Parallelized and FIFO-Balanced GNN Accelerator for Track Reconstruction on FPGAs"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conference
+permalink: /publication/2025-05-01-trackgnn
+date: 2025-05-01
+venue: '33rd IEEE FCCM 2025'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/11008968'
+citation: 'S. Li, H. Zhang, R. Chen, C. Hao. "TrackGNN: A Highly Parallelized and FIFO-Balanced GNN Accelerator for Track Reconstruction on FPGAs." <i>33rd IEEE FCCM</i>, 2025.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+This paper proposes **TrackGNN**, a highly parallelized GNN accelerator designed for efficient track reconstruction in high energy physics. We introduce a FIFO-balanced architecture optimized for FPGA implementation, achieving state-of-the-art performance.
+
+**Keywords**: GNN, FPGA, Track Reconstruction, High Energy Physics  
+[Read the paper](https://ieeexplore.ieee.org/abstract/document/11008968)
