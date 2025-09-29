@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities"
 collection: publications
-category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+category: journal
+permalink: /publication/2024-sparse-matmul
+date: 2024-08-10
+venue: 'ACM Transactions on Reconfigurable Technology and Systems (TRETS)'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3687480'
+citation: 'Y. Liu, R. Chen, S. Li, J. Yang, S. Li, B. da Silva. "FPGA-Based Sparse Matrix Multiplication Accelerators: From State-of-the-art to Future Opportunities." <i>ACM TRETS</i>, 2024. DOI: 10.1145/3687480'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This survey reviews the state-of-the-art in sparse matrix multiplication on FPGAs, identifying architectural trends, bottlenecks, and opportunities for future research and design automation.
