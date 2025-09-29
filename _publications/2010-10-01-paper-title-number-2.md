@@ -1,7 +1,7 @@
 ---
 title: "DIF-LUT Pro: An Automated Tool for Simple yet Scalable Approximation of Nonlinear Activation on FPGA"
 collection: publications
-category: journal
+category: Journal Articles
 permalink: /publication/2025-dif-lut-pro
 date: 2025-04-15
 venue: 'IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD)'
