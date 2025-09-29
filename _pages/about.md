@@ -22,10 +22,8 @@ You can contact me via my email: shuyang.li@gatech.edu
 🎓 Education
 ====
 - **Ph.D. in Electrical and Computer Engineering**
-  Georgia Institute of Technology (2025–present)
-  
+  Georgia Institute of Technology (2025–present)<br>
 - **B.S. in Microelectronic Science and Engineering**
-  Fudan University (2020–2025)
-  
+  Fudan University (2020–2025)<br>
 - **Exchange Student in EECS**
-  KTH Royal Institute of Technology (Jan 2022-July 2022)
+  KTH Royal Institute of Technology (Jan 2022-July 2022)<br>
